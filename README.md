@@ -1,4 +1,5 @@
-### Hi there 👋
+Hola, mi nombre es Julian pero mis amigos me dicen Tatano. Soy estudiante de la ruta FrontEnd y BackEnd con JS en Platzi.👋
+
 
 <!--
 **JulianOsmarGomez/JulianOsmarGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
