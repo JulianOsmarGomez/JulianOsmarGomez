@@ -1,4 +1,4 @@
-Hola, mi nombre es Julian pero mis amigos me dicen Tatano. Soy estudiante de la ruta FrontEnd y BackEnd con JS en Platzi.👋
+Muchos de mis conocidos me dicen Tatano. Soy estudiante de la ruta FrontEnd y BackEnd con JS para desarrollo web en Platzi.👋
 
 
 <!--
